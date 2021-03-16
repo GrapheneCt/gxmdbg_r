@@ -4,6 +4,7 @@
 
 Use debug GXM module on retail PS Vita.
 Debug GXM module will be loaded for all game and VSH applications.
+Tested on 3.60 and 3.65
 
 # Usage
 Grab vs0/sys/external/libgxm_dbg_es4.suprx from TOOL firmware corresponding to your current firmware version and put it in ux0:data/external.
