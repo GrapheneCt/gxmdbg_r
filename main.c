@@ -9,7 +9,7 @@
 static tai_hook_ref_t hook_ref[1];
 static SceUID hook_id[1];
 
-#define DBGGXM_PRX_PATH "vs0:sys/external/libgxm_dbg_es4.suprx"
+#define DBGGXM_PRX_PATH "ux0:data/external/libgxm_dbg_es4.suprx"
 
 static int preload_module_patched(SceUID pid, const char *moduleFileName, int preloadFlags)
 {
