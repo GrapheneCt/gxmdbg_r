@@ -4,6 +4,7 @@
 
 Use debug GXM module on retail PS Vita.
 Debug GXM module will be loaded for all game and VSH applications.
+
 Tested on 3.60 and 3.65
 
 # Usage
