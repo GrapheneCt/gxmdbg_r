@@ -1,6 +1,6 @@
 # gxmdbg_r
 
-#### This plugin is only for developers!
+#### This plugin is intended only for developers!
 
 Use debug GXM module on retail PS Vita.
 Debug GXM module will be loaded for all game and VSH applications.
