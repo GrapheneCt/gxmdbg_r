@@ -12,3 +12,7 @@ If debug module is not found, normal GXM module will be loaded instead.
 - Path to debug module can be changed in source code
 - Debug module is not loaded as shared unlike normal GXM module
 - It is not recommended to use debug GXM module when testing for performance
+
+# Building
+
+Use https://github.com/Vita-Development-Suite
